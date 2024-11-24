@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActividadCalculadora1</string>
+    <string name="calculadora_de_sueldo">Calculadora de sueldo</string>
+    <string name="sueldo_bruto">Sueldo Bruto</string>
+    <string name="sueldobrutoAnual">sueldoBruto</string>
+    <string name="numero_de_pagas">Numero de pagas</string>
+    <string name="salario_bruto_anual">Salario Bruto Anual</string>
+    <string name="edad">Edad</string>
+    <string name="grupo_profesional">Grupo profesional</string>
+    <string name="grado_de_discapacidad">Grado de Discapacidad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="n_mero_de_hijos">Número de Hijos</string>
+    <string name="prueba_salario_bruto">Prueba salario Bruto</string>
+    <string name="resultados">Resultados</string>
+    <string name="salario_bruto_anual1">Salario Bruto Anual</string>
+</resources>
